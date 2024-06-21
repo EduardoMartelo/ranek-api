@@ -1,0 +1,244 @@
+{
+    "usuario": [
+        {
+            "id": "smarteloedu@gmail.com",
+            "email":"smarteloedu@gmail.com",
+            "nome": "Eduardo Martelo",
+            "senha": "1234",
+            "rua": "Egidio Joaquim de Oliveira",
+            "cep": "06608280",
+            "numero": "7",
+            "estado": "SP",
+            "cidade": "Jandira"
+        },
+        {
+            "id": "usuario2@gmail.com",
+            "email":"usuario2@gmail.com",
+            "nome": "usuario 2",
+            "senha": "1234",
+            "rua": "Egidio Joaquim de Oliveira",
+            "cep": "06608280",
+            "numero": "7",
+            "estado": "SP",
+            "cidade": "Jandira"
+        }
+    ],
+    "produto": [
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       },
+       {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": null
+       },
+       {
+        "id": "celular",
+        "nome": "Iphone 11",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo celular",
+        "fotos": null
+       },
+       {
+        "id": "tablet",
+        "nome": "ipad",
+        "usuario_id": "smarteloedu@gmail.com",
+        "preco" : "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo Ipad",
+        "fotos": null
+       }    
+    ]
+}
